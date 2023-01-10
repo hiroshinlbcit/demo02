@@ -1,1 +1,2 @@
 "hello from Hiroshi" 
+goodbye from Hiroshi  
